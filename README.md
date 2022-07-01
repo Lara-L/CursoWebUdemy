@@ -3,7 +3,7 @@
 
 ## Unes :small_blue_diamond:
 - **Tabelas**<table><td>
->*No geral as tabelas são utilizadas para organizar dados, porém nesse caso ela foi utilizada como estrutura/esqueleto de todo o site.*
+>*No geral as tabelas são utilizadas para organizar dados, porém nesse caso ela foi utilizada como estrutura/esqueleto de todo o site.*<br>
 ***Principais tags: ```<table>``` || ```<tr>```->linha da tabela || ```<td>```->célula de uma tabela***</td></table>
 
 
